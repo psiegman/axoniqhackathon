@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: nl.gerimedica.axoniqhack.gmhack.GmhackApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.831 sec - in nl.gerimedica.axoniqhack.gmhack.GmhackApplicationTests
